@@ -15,7 +15,7 @@ eager to see each new day as a Software engineer because there is always
 something new to learn or improve on.</p>
 
 
-⚡ I’m currently working on Building a Robust Cross-Platform Application for Booking keeping: Harnessing the Power of Golang, NestJS, Next.js, Flutter, Kubernetes, and Docker.
+⚡ I’m currently working on Building a Robust Cross-Platform Application for Booking keeping: Harnessing the Power of Rust, NestJS, Next.js, Flutter, Kubernetes, and Docker.
 <br /> 🤝 I’m looking to collaborate with an ambitious developer or an ingenious problem solver, Tech Innovators, and Visionaries in pushing the boundaries of technology and creating cutting-edge solutions and groundbreaking projects.
 <br /> 🔭 I’m currently learning more about infrastructures and security.
 <br /> 💬 Ask me about anything on architecting solutions, career building, and mentoring.<br><br>Fun fact about me, I love combat sports.
